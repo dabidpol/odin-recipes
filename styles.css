@@ -1,0 +1,32 @@
+div {
+    color: white;
+    background-color: black;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: greenyellow;
+    background-color: black;
+}
+
+h3 {
+    color: yellow;
+    background: black;
+}
+
+h4 {
+    color: green
+}
+
+p {
+    color: red;
+}
+
